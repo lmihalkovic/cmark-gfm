@@ -1,0 +1,6 @@
+#include "src/cmark-gfm.h"
+#include "src/node.h"
+#include "src/iterator.h"
+#include "src/registry.h"
+// #include "src/cmark-gfm-extension_api.h"
+// #include "../extensions/cmark-gfm-core-extensions.h"
